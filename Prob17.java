@@ -1,3 +1,4 @@
+/*Electricity mein or in any word the first letter kidhar repeat hota hai vaha $ dalo */
 import java.util.*;
 public class Prob17{
     public static void main(String args[]) {
