@@ -5,7 +5,7 @@ DSA with Java
 JAVA FUNDAMENTALS
 
 Hello World
-Prob1-Even Odd
+Prob1-Even Odd 
 Prob2-Switch case(days in months)
 Prob3-Add 2 numbers and divide it with 3rd and get remainder
 Prob4-Type of Triangle
